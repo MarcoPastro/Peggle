@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f502a1f22f6f84940867cc8e81c5e1b2, type: 3}
+  m_Name: BasicCircle
+  m_EditorClassIdentifier: 
+  Material: {fileID: 6200000, guid: 8605dee8041dffd4494115b7abc9265b, type: 2}
+  Score: 10
+  DoubleScore: 20
+  NormalSprite: {fileID: 21300000, guid: 7e3870c00dde1c3438d393a6d62ee4a0, type: 3}
+  HitSprite: {fileID: 21300000, guid: a08daa7068ed9164499b27e5ed22d8e7, type: 3}
+  DoubleSprite: {fileID: 21300000, guid: 42828ae0c1e5f794481923d2c0a3ff5e, type: 3}
